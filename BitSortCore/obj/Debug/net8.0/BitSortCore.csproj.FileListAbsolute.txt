@@ -1,0 +1,11 @@
+D:\BitSort\BitSortCore\bin\Debug\net8.0\BitSortCore.deps.json
+D:\BitSort\BitSortCore\bin\Debug\net8.0\BitSortCore.dll
+D:\BitSort\BitSortCore\bin\Debug\net8.0\BitSortCore.pdb
+D:\BitSort\BitSortCore\obj\Debug\net8.0\BitSortCore.GeneratedMSBuildEditorConfig.editorconfig
+D:\BitSort\BitSortCore\obj\Debug\net8.0\BitSortCore.AssemblyInfoInputs.cache
+D:\BitSort\BitSortCore\obj\Debug\net8.0\BitSortCore.AssemblyInfo.cs
+D:\BitSort\BitSortCore\obj\Debug\net8.0\BitSortCore.csproj.CoreCompileInputs.cache
+D:\BitSort\BitSortCore\obj\Debug\net8.0\BitSortCore.dll
+D:\BitSort\BitSortCore\obj\Debug\net8.0\refint\BitSortCore.dll
+D:\BitSort\BitSortCore\obj\Debug\net8.0\BitSortCore.pdb
+D:\BitSort\BitSortCore\obj\Debug\net8.0\ref\BitSortCore.dll
