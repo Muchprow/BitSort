@@ -1,0 +1,24 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <ApplicationIcon>app.ico</ApplicationIcon>
+
+    <Title>BitSort v2.2</Title>
+    <Product>BitSort</Product>
+    <Description>Specialized utility engineered to safely purge heavy software caches and manage hardware driver packages.</Description>
+    <Authors>Muchprow_IT</Authors>
+    <Copyright>Copyright © 2026 BitSort</Copyright>
+    <AssemblyVersion>2.2.0.0</AssemblyVersion>
+    <FileVersion>2.2.0.0</FileVersion>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\BitSortCore\BitSortCore.csproj" />
+  </ItemGroup>
+
+</Project>
