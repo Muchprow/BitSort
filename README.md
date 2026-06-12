@@ -57,6 +57,6 @@ The application features a modern, eye-friendly dark professional suite containi
 
 ## ⚖️ License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the GNU License - see the [LICENSE](LICENSE) file for details.
 
 Developed with 💻 by [Muchprow](https://github.com/Muchprow).    
