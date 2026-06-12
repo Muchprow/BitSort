@@ -36,6 +36,8 @@ Since BitSort is compiled as a standalone **Single-File Native Executable**, you
 3. Right-click the file -> **Run as Administrator** *(required for Windows PnP driver integration & System Temp access)*.
 4. Select your targets and click **▶ START OPTIMIZATION**.
 
+Note: Run the application as Administrator to allow deep cache cleaning and driver scanning.
+
 ---
 
 ## 📸 Screenshots & UI
